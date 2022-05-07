@@ -27,7 +27,7 @@ replaySub.onNext("value 4")
 replaySub.onNext("value 5")
 replaySub.onNext("value 6")
 
-print("--ReplaySUbject2--")
+print("--ReplaySubject2--")
 replaySub.subscribe { print($0) }.disposed(by: dispose)
 
 print("--BehaviorRelay--")
@@ -41,3 +41,5 @@ var newArray = behaviorArray.value
 newArray.append("item 2")
 newArray.append("item 3")
 behaviorArray.accept(newArray)
+
+
