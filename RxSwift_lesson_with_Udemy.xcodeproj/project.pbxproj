@@ -49,7 +49,6 @@
 				827041BDE15385C610A12276 /* Pods-RxSwift_lesson_with_Udemy.debug.xcconfig */,
 				09C34090D3FAE9440FC65F32 /* Pods-RxSwift_lesson_with_Udemy.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -82,10 +81,6 @@
 		FDFD929A282633C300C8CEBC /* RxSwift_lesson_with_Udemy */ = {
 			isa = PBXGroup;
 			children = (
-				FDFD92B3282633F700C8CEBC /* New Group4 */,
-				FDFD92B2282633F500C8CEBC /* New Group3 */,
-				FDFD92B1282633EF00C8CEBC /* New Group2 */,
-				FDFD92B0282633EC00C8CEBC /* New Group1 */,
 				FDFD92AF282633E800C8CEBC /* PlayGround */,
 				FDFD929B282633C300C8CEBC /* AppDelegate.swift */,
 				FDFD929D282633C300C8CEBC /* SceneDelegate.swift */,
@@ -104,34 +99,6 @@
 				FDFD92B42826354700C8CEBC /* MyPlayground.playground */,
 			);
 			path = PlayGround;
-			sourceTree = "<group>";
-		};
-		FDFD92B0282633EC00C8CEBC /* New Group1 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group1";
-			sourceTree = "<group>";
-		};
-		FDFD92B1282633EF00C8CEBC /* New Group2 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group2";
-			sourceTree = "<group>";
-		};
-		FDFD92B2282633F500C8CEBC /* New Group3 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group3";
-			sourceTree = "<group>";
-		};
-		FDFD92B3282633F700C8CEBC /* New Group4 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group4";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

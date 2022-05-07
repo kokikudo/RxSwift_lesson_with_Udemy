@@ -1,0 +1,6 @@
+framework module Pods_RxSwift_lesson_with_Udemy {
+  umbrella header "Pods-RxSwift_lesson_with_Udemy-umbrella.h"
+
+  export *
+  module * { export * }
+}
